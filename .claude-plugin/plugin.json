@@ -1,0 +1,16 @@
+{
+  "name": "nutcracker",
+  "version": "1.0.0",
+  "description": "Brief Nutcracker from Claude: strategy, ideas, copy, research-backed docs, presentations and storyboards, filed in your brand's space.",
+  "author": {
+    "name": "Nutcracker",
+    "url": "https://heynutcracker.com"
+  },
+  "homepage": "https://heynutcracker.com/connect",
+  "repository": "https://github.com/heynutcracker/nutcracker-claude-plugin",
+  "license": "MIT",
+  "icon": "./assets/logo.png",
+  "privacyPolicyUrl": "https://heynutcracker.com/privacy",
+  "mcpServers": "./.mcp.json",
+  "keywords": ["nutcracker", "marketing", "strategy", "copywriting", "presentations", "storyboards", "mcp"]
+}

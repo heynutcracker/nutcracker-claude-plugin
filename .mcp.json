@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "nutcracker": {
+      "type": "http",
+      "url": "https://heynutcracker.com/mcp/claude",
+      "oauth_resource": "https://heynutcracker.com/mcp/claude"
+    }
+  }
+}

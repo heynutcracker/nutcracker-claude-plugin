@@ -1,0 +1,18 @@
+{
+  "name": "nutcracker",
+  "owner": {
+    "name": "Nutcracker",
+    "url": "https://heynutcracker.com"
+  },
+  "metadata": {
+    "description": "Nutcracker connector for Claude: briefs, docs, presentations and storyboards in your brand's space."
+  },
+  "plugins": [
+    {
+      "name": "nutcracker",
+      "source": "./",
+      "description": "Brief Nutcracker from Claude: strategy, ideas, copy, research-backed docs, presentations and storyboards, filed in your brand's space.",
+      "version": "1.0.0"
+    }
+  ]
+}
