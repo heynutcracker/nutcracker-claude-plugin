@@ -11,6 +11,17 @@
   "license": "MIT",
   "icon": "./assets/logo.png",
   "privacyPolicyUrl": "https://heynutcracker.com/privacy",
+  "termsOfServiceUrl": "https://heynutcracker.com/terms",
+  "documentationUrl": "https://heynutcracker.com/connect",
+  "supportUrl": "mailto:support@heynutcracker.com",
   "mcpServers": "./.mcp.json",
-  "keywords": ["nutcracker", "marketing", "strategy", "copywriting", "presentations", "storyboards", "mcp"]
+  "keywords": [
+    "nutcracker",
+    "marketing",
+    "strategy",
+    "copywriting",
+    "presentations",
+    "storyboards",
+    "mcp"
+  ]
 }
